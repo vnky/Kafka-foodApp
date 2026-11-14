@@ -1,0 +1,2 @@
+confluent-kafka==2.16.1
+typing_extensions==4.16.0
